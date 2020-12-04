@@ -1,5 +1,5 @@
-<? 
-require "header.php";
+<?php 
+include "header.php";
 ?>
 <div class="welcome">
     <div class="container">
@@ -9,6 +9,6 @@ require "header.php";
     </div>
 </div>
 
-<? 
-require "footer.php";
+<?php 
+include "footer.php";
 ?>

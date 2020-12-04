@@ -1,4 +1,4 @@
-<? 
+<?php 
 require "header.php";
 ?>
 <div class="login">
@@ -23,6 +23,6 @@ require "header.php";
     </div>
 </div>
 
-<? 
+<?php 
 require "footer.php";
 ?>
